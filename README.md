@@ -10,3 +10,9 @@ Learning GitHub step 4
 
 Learning GitHub step 5
 
+Learning GitHub step 7
+
+Learning GitHub step 8
+
+Learning GitHub step 9
+
