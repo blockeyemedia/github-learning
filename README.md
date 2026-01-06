@@ -1,4 +1,12 @@
 # github-learning
 
-Learning GitHub step by step.
+Learning GitHub step 1
+
+Learning GitHub step 2
+
+Learning GitHub step 3
+
+Learning GitHub step 4
+
+Learning GitHub step 5
 
